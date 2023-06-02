@@ -1,0 +1,5 @@
+GIT:Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+CLONE:se utiliza principalmente para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio, en otra ubicación.
+PUSH: se usa para cargar contenido del repositorio local a un repositorio remoto.
+COMMIT:captura una instantánea de los cambios preparados en ese momento del proyecto.
+se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido.
